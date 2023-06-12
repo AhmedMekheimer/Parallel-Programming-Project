@@ -1,0 +1,2 @@
+﻿H:\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Ahmed Khaled Saad Ali_1809799_assignment2.vcxproj, Lab Assignment 2.vcxproj, LabAssignment2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Lab Assignment 2.vcxproj -> E:\Courses\4th CESS Senior2_Term2\High Performance Computing\Assignments\Lab Assignment 2\Lab Assignment 2\Debug\Ahmed_Khaled_Saad_Ali_1809799_assignment2.exe
