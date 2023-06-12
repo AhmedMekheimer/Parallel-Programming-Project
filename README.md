@@ -1,4 +1,4 @@
-# Parallel-Programming-Project
-Parallel Histogram Equalization of Gray Scale Images is done in:
+# Parallel Histogram Equalization of Gray Scale Images
+It is done in:
 -Sequential
 -Parallel Programming using: OpenMP & MPI
